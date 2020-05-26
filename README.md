@@ -1,3 +1,6 @@
+# Forked from GrantZheng/kit, planned use is to understand said kit
+# no pull requests, this is not my code
+
 # GoKit CLI  [![Build Status](https://travis-ci.org/kujtimiihoxha/kit.svg?branch=master)](https://travis-ci.org/kujtimiihoxha/kit)[![Go Report Card](https://goreportcard.com/badge/github.com/kujtimiihoxha/kit)](https://goreportcard.com/report/github.com/kujtimiihoxha/kit)[![Coverage Status](https://coveralls.io/repos/github/kujtimiihoxha/kit/badge.svg?branch=master)](https://coveralls.io/github/kujtimiihoxha/kit?branch=master)
 I fork the project from [kit](https://github.com/kujtimiihoxha/kit) and plan to maintain it in the future. The kit tool is a great job, and deeply used in our team. Some features and bugs have been done and fixed, such as supporting go module,replacing some old dependencies and so on. I am very glad to receive recommend about it.  
 
